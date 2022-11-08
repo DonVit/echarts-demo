@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/echarts-demo/static/css/main.073c9b0a.css",
+    "main.js": "/echarts-demo/static/js/main.f062c71c.js",
+    "static/js/787.e188eefc.chunk.js": "/echarts-demo/static/js/787.e188eefc.chunk.js",
+    "static/media/logo.svg": "/echarts-demo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/echarts-demo/index.html",
+    "main.073c9b0a.css.map": "/echarts-demo/static/css/main.073c9b0a.css.map",
+    "main.f062c71c.js.map": "/echarts-demo/static/js/main.f062c71c.js.map",
+    "787.e188eefc.chunk.js.map": "/echarts-demo/static/js/787.e188eefc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f062c71c.js"
+  ]
+}
