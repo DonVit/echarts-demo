@@ -1,11 +1,10 @@
 import React from 'react'
 import ReactECharts from 'echarts-for-react'
-import GrapthData from './GraphData'
 
-const Graph = () =>
+const Graph = ({data}) =>
 
 <ReactECharts
-  option={GrapthData}
+  option={data}
 />
 
 export default Graph
